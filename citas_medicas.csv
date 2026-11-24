@@ -1,0 +1,6 @@
+﻿index,id_cita,fecha,especialidad,estado,edad
+0,1,2026-09-26,Medicina General,Atendida,38
+1,2,2025-12-31,Traumatología,Cancelada,28
+2,3,2026-05-01,Traumatología,Atendida,44
+3,4,2026-09-19,Pediatría,Atendida,43
+4,5,2026-07-31,Ginecología,Atendida,85
